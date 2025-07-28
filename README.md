@@ -26,3 +26,22 @@ Frameworks:       React, Next.js, Tailwind CSS
 Blockchain:       Solana, Metaplex, Rust (learning), Phantom Wallet  
 AI Tools:         OpenAI (ChatGPT, Whisper), HuggingFace  
 Design:           Figma, Canva, CapCut  
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khadijatranoibrahim&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khadijatranoibrahim&theme=radical" width="400"/>
+</p>
+
+---
+
+### 📬 Connect with Me
+
+- Facebook: [facebook.com/deejahrano](https://facebook.com/deejahrano)  
+- YouTube: [youtube.com/@deejahrano](https://youtube.com/@deejahrano)  
+- GitHub: [github.com/Khadijatranoibrahim](https://github.com/Khadijatranoibrahim)
+
+> _“Silence isn’t empty, it’s full of answers.”_  
+> — **Deejah 💙**
